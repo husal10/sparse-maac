@@ -1,0 +1,16 @@
+{
+ "avg_catches": 20.96,
+ "avg_pred_rew": 0.0252132991142571,
+ "avg_prey_rew": -0.0566166378185153,
+ "return_mean": -0.05091771483421326,
+ "return_team0": 0.6303324699401855,
+ "return_team1": -1.41541588306427,
+ "capture_rate": 0.3013196587562561,
+ "success_rate": 0.3013196587562561,
+ "first_capture": 20.574047088623047,
+ "n_episodes": 4,
+ "vr_return_team0": 1.6804331541061401,
+ "vr_capture_rate": 0.6488269567489624,
+ "vr_return_team1": -0.31224870681762695,
+ "vr_escape_rate": 0.8101173043251038
+}

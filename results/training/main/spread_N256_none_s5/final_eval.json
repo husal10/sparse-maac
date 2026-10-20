@@ -1,0 +1,20 @@
+{
+ "avg_covered": 0.07951171875,
+ "avg_collisions": 0.001484375,
+ "return_mean": -6.343474388122559,
+ "return_team0": -6.343474388122559,
+ "final_coverage": 0.08447265625,
+ "success_rate": 0.0,
+ "collision_rate": 0.0014843749813735485,
+ "n_episodes": 8,
+ "final_coverage_episodes": [
+  0.07812,
+  0.08594,
+  0.08984,
+  0.09766,
+  0.06641,
+  0.07422,
+  0.08594,
+  0.09766
+ ]
+}

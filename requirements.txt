@@ -1,0 +1,8 @@
+torch>=2.4
+numpy
+pandas
+scipy
+matplotlib
+imageio
+pytest
+tensorboard   # optional

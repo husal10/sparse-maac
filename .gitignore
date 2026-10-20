@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# outputs of the scripts
+/runs/
+/runs_*/
+/figs/
+results/runs.csv
+results/summary.*
+results/bench_gpu.csv
+results/crossover*
+results/fidelity*
+*.pt
+tb/
+events.out.tfevents.*
+*.log
+
+.DS_Store
+.ipynb_checkpoints/
